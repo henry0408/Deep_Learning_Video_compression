@@ -3,6 +3,12 @@ ELEC5306 Project3, Used deep learning for video compression.
 
 In this project, we used deep learning method to achieve a network to achieve video compression and recovering. The structure of the network is shown below:
 
+![image](https://user-images.githubusercontent.com/58734009/184898487-10a3ab9e-ccf6-4a9b-a184-996b57372c2d.png)
+
+The compression ratio is 70%+
+
+The performance of the video after recovering is shown below: (some screenshots)
+
 ![image](https://user-images.githubusercontent.com/58734009/184895860-080b92bd-e9a5-416b-91ee-ad3e1df9af9c.png)
 
 ![image](https://user-images.githubusercontent.com/58734009/184895504-c75e9cb5-294f-4257-8084-7965efc154ac.png)
