@@ -1,13 +1,16 @@
 # Deep_Learning_Video_compression
-ELEC5306 Project3, Used deep learning for video compression.
 
-In this project, we used deep learning method to achieve a network to achieve video compression and recovering. The structure of the network is shown below:
+In this project, deep learning method was used to set up a toy pipeline for video compression and recovering. The main approach is that the whole video will be sepearated into frames so that the nerual network will compress each frame (picture) and then recover them. 
+
+Basic Requirements:\
+The compression ratio is 70%+ and the quality of the video after recovered is good (judged by PSNR ratio and of course human eyes).
+
+The structure of this toy model is shown below:
 
 ![image](https://user-images.githubusercontent.com/58734009/184898741-ddfccc27-2dab-4ba9-8ce9-cd4a2e96b011.png)
 
-The compression ratio is 70%+
 
-The performance of the video after recovering is shown below: (some screenshots)
+The performance of the video after recovering is shown below: (some frames in the video)
 
 ![image](https://user-images.githubusercontent.com/58734009/184895860-080b92bd-e9a5-416b-91ee-ad3e1df9af9c.png)
 
